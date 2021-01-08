@@ -1,15 +1,17 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 陈嘉俊
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:jiajun.chen@outlook.com
+  text: jiajun.chen@outlook.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: http://jiajun.bitcron.com
+  text: jiajun.bitcron.com
+phone:
+  text:18659101192
 ---
 
-# Wode **Ni**
+# 陈嘉俊
 
 <!--
 include contact information from the front matter
@@ -23,7 +25,7 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **合肥工业大学** `2011.9 - 2015.9`
 
 ```
 Pittsburgh, PA
@@ -31,24 +33,6 @@ Pittsburgh, PA
 
 - Ph.D. in Software Engineering
 - Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
